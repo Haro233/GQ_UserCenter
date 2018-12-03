@@ -1,36 +1,29 @@
-## Available Scripts
+# react-crm
+react-crm system solution
 
-In the project directory, you can run:
+### 前言
+> 启动和打包的时间都稍长，请耐心等待两分钟
 
-### `npm start`
+### 安装运行
+##### 1.下载或克隆项目源码
+##### 2.npm安装相关包文件(国内建议增加淘宝镜像源，不然很慢)
+```js
+npm i or npm install
+```
+##### 3.启动项目
+```js
+npm start
+```
+##### 4.打包项目
+```js
+npm run build
+```
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 更新日志
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+#### 2018-12-03
+- 
+    - 首次上传
 
-### `npm test`
+### 结尾
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](#running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](#deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
